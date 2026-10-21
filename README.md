@@ -1,2 +1,2 @@
-# alu-higher_level_programming
-Python and Shell scripts for the higher level programming projects.
+# python-hello_world
+Shell and Python scripts for the hello world project.
