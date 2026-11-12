@@ -15,3 +15,4 @@ static and class methods, `__str__`, `__repr__` and `__del__`.
 | `7-rectangle.py` | Adds the `print_symbol` class attribute. |
 | `8-rectangle.py` | Adds the `bigger_or_equal` static method. |
 | `9-rectangle.py` | Adds the `square` class method. |
+| `101-nqueens.py` | Solves the N queens puzzle with backtracking. |
