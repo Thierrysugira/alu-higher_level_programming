@@ -23,3 +23,10 @@ with `BaseGeometry`, `Rectangle` and `Square`.
 
 Run the tests from this directory with
 `python3 -m doctest -v ./tests/1-my_list.txt`.
+
+Advanced tasks:
+
+| File | Description |
+| ---- | ----------- |
+| `100-my_int.py` | `MyInt`, an `int` subclass with `==` and `!=` inverted. |
+| `101-add_attribute.py` | Adds a new attribute to an object if it is possible. |
