@@ -27,3 +27,7 @@ Run a script with, for example:
 | `14-average.sql` | Computes the average score. |
 | `15-groups.sql` | Counts the records per score. |
 | `16-no_link.sql` | Lists the records that have a name. |
+| `100-move_to_utf8.sql` | Converts the database, `first_table` and its fields to UTF8. |
+| `101-avg_temperatures.sql` | Average temperature by city, highest first. |
+| `102-top_city.sql` | Top 3 cities by temperature in July and August. |
+| `103-max_state.sql` | Maximum temperature of each state. |
