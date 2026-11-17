@@ -20,3 +20,5 @@ deserialization, and class-to-dictionary conversion.
 | `10-student.py` | `to_json` with an attribute filter. |
 | `11-student.py` | Adds `reload_from_json`. |
 | `12-pascal_triangle.py` | Returns Pascal's triangle of n. |
+| `100-append_after.py` | Inserts a line after each line containing a string. |
+| `101-stats.py` | Reads an HTTP log from stdin and prints metrics every 10 lines. |
