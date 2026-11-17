@@ -27,6 +27,5 @@ if __name__ == "__main__":
                 pass
             if count % 10 == 0:
                 print_stats(size, codes)
-    except KeyboardInterrupt:
+    finally:
         print_stats(size, codes)
-        raise
