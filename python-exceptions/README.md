@@ -12,3 +12,6 @@ This directory contains projects on Python exception handling
 | `4-list_division.py` | Divides 2 lists element by element, handling errors. |
 | `5-raise_exception.py` | Raises a `TypeError`. |
 | `6-raise_exception_msg.py` | Raises a `NameError` with a message. |
+
+Advanced tasks: `100-safe_print_integer_err.py`, `101-safe_function.py` and
+`102-magic_calculation.py` (rebuilt from Python bytecode).
